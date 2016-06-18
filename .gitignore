@@ -1,2 +1,5 @@
 hsptmp
 obj
+*.ini
+clean.bat
+memo.html
